@@ -1,6 +1,8 @@
 ### Hi there, I'm Memba! :wave:
 <a href="https://www.linkedin.com/in/membathisi-mcetywa-2b8b42189">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn" width="140" height="40"/></a>
+<a href="https://www.twitter.com/membatheone">
+<img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter" alt="Twitter" width="140" height="40"/></a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
