@@ -34,6 +34,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MembaMcetywa&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<!---
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MembaMcetywa&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
@@ -45,7 +47,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=[MembaMcetywa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<!---
+
 - 👋 Hi, I’m Memba!
 - 👀 I’m interested in mobile and web development
 - 🌱 I’m currently learning Flutter and Javascript (React)
