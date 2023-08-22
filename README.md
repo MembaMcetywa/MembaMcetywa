@@ -45,9 +45,8 @@
 
 
 - 👋 Hi, I’m Memba!
-- 👀 I’m interested in mobile and web development
-- 🌱 I’m currently learning Flutter and Javascript (React)
-- 💞️ I’m looking to collaborate on any open source projects or just any cool tech
+- 👀 I can write robust JavaScript that scales
+- 🌱 I love the Earth
 - 📫 Reach out to me on twitter @membatheone
 
 
