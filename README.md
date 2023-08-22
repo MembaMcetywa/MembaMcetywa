@@ -26,10 +26,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
 </div>
 
-## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MembaMcetywa&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <!---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MembaMcetywa&theme=dark&background=000000)](https://git.io/streak-stats)
