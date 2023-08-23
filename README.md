@@ -26,6 +26,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
 </div>
 
+- 👋 Hi, I’m Memba!
+- 👀 I can write robust JavaScript that scales
+- 🌱 I love the Earth
+- 📫 Reach out to me on twitter @membatheone
 <!---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MembaMcetywa&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -40,10 +44,7 @@
 
 
 
-- 👋 Hi, I’m Memba!
-- 👀 I can write robust JavaScript that scales
-- 🌱 I love the Earth
-- 📫 Reach out to me on twitter @membatheone
+
 
 
 MembaMcetywa/MembaMcetywa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
