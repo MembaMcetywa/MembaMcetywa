@@ -1,6 +1,6 @@
-<div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+'U+1F44B'+I'm+Memba+;Fullstack+Software+Developer;Fullstack+meme+connoisseur)](https://git.io/typing-svg)
-</div><br>
+<br>
 <a href="https://www.linkedin.com/in/membathisi-mcetywa-2b8b42189">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn" width="140" height="40"/></a>
 <a href="https://www.twitter.com/membatheone">
