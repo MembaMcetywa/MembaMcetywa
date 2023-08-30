@@ -29,7 +29,7 @@
 <br>
  <strong>A Quick Introduction</strong><br>
 - 👋 Hi, I’m Memba! <br>
-- 👀 I write robust JavaScript that scales. I am also great at making memes. <br>
+- 👀 I love writing JavaScript. I am also great at making memes. <br>
 - 🌱 I love the Earth <br>
 - 📫 Reach out to me on twitter @membatheone
 </div>
