@@ -33,8 +33,8 @@
 - 🌱 I love the Earth <br>
 - 📫 Reach out to me on twitter @membatheone
 </div>
-
-
+<br>
+<a href="https://app.daily.dev/billydangerr"><img src="https://api.daily.dev/devcards/v2/D7efdjHL8AAPXkVkqoz9z.png?r=qu4" width="356" alt="Memba's Dev Card"/></a>
 <!---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MembaMcetywa&theme=dark&background=000000)](https://git.io/streak-stats)
