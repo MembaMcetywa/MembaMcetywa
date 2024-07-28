@@ -3,9 +3,6 @@
 <br>
 <a href="https://www.linkedin.com/in/membathisi-mcetywa-2b8b42189">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn" width="140" height="40"/></a>
-<a href="https://www.twitter.com/membatheone">
-<img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter" alt="Twitter" width="140" height="40"/></a>
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -26,13 +23,13 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
-<br>
+<!-- <br>
  <strong>A Quick Introduction</strong><br>
 - 👋 Hi, I’m Memba! <br>
 - 👀 I love writing JavaScript. I am also great at making memes. <br>
 - 🌱 I love the Earth <br>
 - 📫 Reach out to me on twitter @membatheone
-</div>
+</div> -->
 <br>
 <a href="https://app.daily.dev/billydangerr"><img src="https://api.daily.dev/devcards/v2/D7efdjHL8AAPXkVkqoz9z.png?r=qu4" width="356" alt="Memba's Dev Card"/></a>
 <!---
