@@ -23,15 +23,15 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
-<!-- <br>
+<br>
  <strong>A Quick Introduction</strong><br>
 - 👋 Hi, I’m Memba! <br>
 - 👀 I love writing JavaScript. I am also great at making memes. <br>
 - 🌱 I love the Earth <br>
 - 📫 Reach out to me on twitter @membatheone
-</div> -->
+</div>
 <br>
-<a href="https://app.daily.dev/billydangerr"><img src="https://api.daily.dev/devcards/v2/D7efdjHL8AAPXkVkqoz9z.png?r=qu4" width="356" alt="Memba's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/billydangerr"><img src="https://api.daily.dev/devcards/v2/D7efdjHL8AAPXkVkqoz9z.png?r=qu4" width="356" alt="Memba's Dev Card"/></a> -->
 <!---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MembaMcetywa&theme=dark&background=000000)](https://git.io/streak-stats)
